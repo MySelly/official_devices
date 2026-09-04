@@ -30,6 +30,7 @@
 
 ## Nothing
 - **Nothing Phone 2 (Pong)** - [`@samrth012`](https://t.me/samrth012)
+- **Nothing Phone 1 (Spacewar)** [`@mysellysenpai`](https://t.me/mysellysenpai)
 
 ## OnePlus
 - **OnePlus 5 (cheeseburger)** - [`@SirRGB`](https://github.com/SirRGB)
