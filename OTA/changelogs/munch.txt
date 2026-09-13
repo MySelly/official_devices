@@ -4,6 +4,14 @@ Device name: POCO F4
 Device codename: munch
 Device maintainer: SenX
 
+=========11/09/2026===========
+• September security patch
+• Switch audio HAL to V7
+• Added minimum and peak refresh rate controls in Display settings
+• Resolved system suspend denials (improves deep sleep & standby drain)
+• Miscellaneous SELinux policy and logging fixes
+• Reverted kernel Clang toolchain for build stability
+
 =========05/09/2026===========
 • Initial Android 17 release (9.0 elefthería)
 

@@ -1,21 +1,21 @@
 {
-        "response": [
-                {
-                        "maintainer": "SenX & efeisot",
-                        "oem": "Xiaomi",
-                        "device": "Poco F4/Redmi K40s",
-                        "filename": "RisingOS-9-260904-2000-VANILLA-OFFICIAL-munch-ota.zip",
-                        "download": "https://sourceforge.net/projects/risingos-revived/files/9.x/VANILLA/munch/RisingOS-9-260904-2000-VANILLA-OFFICIAL-munch-ota.zip/download",
-                        "timestamp": 1788551887,
-                        "md5": "2a03dbd555478e7391f70eb6dd723173",
-                        "sha256": "7b12c2045711398ee44ecafe8c0adf45b17d4eef80af9c6eed7693712836f3dc",
-                        "size": 2167901610,
-                        "version": "9-elefthería",
-                        "buildtype": "STABLE",
-                        "forum": "",
-                        "recovery": "https://orangefox.download/device/634a91f53c05f43c193c2c3e",
-                        "paypal": "https://paypal.me/senxkarl",
-                        "telegram": "https://t.me/senseixhub"
-                }
-        ]
+	"response": [
+		{
+			"maintainer": "efeisot",
+			"oem": "Xiaomi",
+			"device": "Poco F4/Redmi K40s",
+			"filename": "RisingOS-9-260911-2146-VANILLA-OFFICIAL-munch-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/9.x/VANILLA/munch/RisingOS-9-260911-2146-VANILLA-OFFICIAL-munch-ota.zip/download",
+			"timestamp": 1789163044,
+			"md5": "d528c9f094a14a87ed1d8de926f089be",
+			"sha256": "ea57058b849a800b762eb64adf1355da78be925682d1ef6a79338520ad45e7fa",
+			"size": 2169172901,
+			"version": "9-elefthería",
+			"buildtype": "STABLE",
+			"forum": "",
+			"recovery": "https://orangefox.download/device/634a91f53c05f43c193c2c3e",
+			"paypal": "https://t.me/ServerHive_bot?start=dev_EWMCYX",
+			"telegram": "https://t.me/munchaosp"
+		}
+	]
 }
