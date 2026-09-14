@@ -1,3 +1,11 @@
+=========14/09/2026===========
+- September Monthly Update
+- fixed adblocking and hosts file issues
+- added back some device tree commits from A16
+- fixed some ui issues
+- added back Gcam 
+- added PixelExtraParts
+
 =========04/09/2026===========
 - hotfix 
 
